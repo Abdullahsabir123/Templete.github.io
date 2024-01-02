@@ -148,7 +148,7 @@
         }
 
         .container2 {
-            border: 2px solid black;
+            border: 2px solid rgba(0, 0, 0, 0);
             border-radius: 20px;
             margin: 0px 10px;
             width: 700px;
@@ -162,9 +162,34 @@
             border-radius: 50px;
         }
         .in{
+            border: 2px solid rgba(0, 0, 0, 0.107);
             position: relative;
             bottom: 40px;
             border-radius: 30px;
             padding: 15px;
             width: 525px;
+        }
+        .con{
+            display: flex;
+            flex-wrap: wrap;
+        }
+        li{
+            list-style: none;
+            margin: 0px 80px;
+        }
+        .ic{
+            color: blue;
+        }
+        .ci{
+            color:orange;
+        }
+        .on{
+            color: red;
+        }
+        .container4{
+            border: 2px solid black;
+            width: 300px;
+        }
+        .h{
+            color: grey;
         }
