@@ -138,7 +138,7 @@
         .ps {
             color: blue;
             position: relative;
-            left: 150px;
+            left: 25px;
         }
 
         .pa {
@@ -192,4 +192,11 @@
         }
         .h{
             color: grey;
+        }
+        .ns{
+            position: relative;
+            left: 25px;
+        }
+        .ps1{
+            
         }
