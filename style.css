@@ -1,0 +1,170 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .navbar {
+            background-color: rgba(0, 0, 0, 0.055);
+            color: white;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            align-items: center;
+            padding: 2px;
+        }
+
+        .navIList {
+            list-style: none;
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .searchInput {
+            padding: 10px;
+            border-radius: 10px;
+        }
+
+        .ssp {
+            background-color: blue;
+        }
+
+        .ps {
+            position: relative;
+            left: 25px;
+            color: black;
+        }
+
+        .sp {
+            position: relative;
+            left: 10px;
+            color: black;
+        }
+
+        .st {
+            position: relative;
+            left: 5px;
+            color: black;
+        }
+
+        .dv {
+            border-radius: 20px;
+            height: 80px;
+            width: 350px;
+            background: rgba(0, 0, 0, 0.093);
+            position: fixed;
+            bottom: 5px;
+            right: 0px;
+        }
+
+        .bor {
+            border: 2px solid black;
+            border-radius: 50px;
+            position: relative;
+            top: 15px;
+            left: 10px;
+        }
+
+        .para {
+            position: relative;
+            left: 70px;
+            bottom: 25px;
+        }
+
+        .ms {
+            position: relative;
+            left: 25px;
+        }
+
+        .bord {
+            border: 2px solid black;
+            border-radius: 50px;
+        }
+
+        .rd {
+            color: red;
+        }
+
+        .br {
+            position: relative;
+            left: 25px;
+        }
+
+        .pr {
+            position: relative;
+            left: 20px;
+        }
+
+        .bl {
+            color: black;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .container1 {
+            border: 2px solid rgba(0, 0, 0, 0);
+            background-color: rgba(0, 0, 0, 0.055);
+            border-radius: 20px;
+            height: 400px;
+            width: 20vw;
+            margin: 0px 5px;
+        }
+
+        .di {
+            border: 2px solid white;
+            border-top-right-radius: 20px;
+            border-top-left-radius: 20px;
+            text-align: center;
+            height: 15%;
+            background-color: green;
+        }
+
+        .img {
+            position: relative;
+            left: 80px;
+            bottom: 10px;
+            height: 110px;
+            width: 110px;
+            border: 2px solid white;
+            border-radius: 50px;
+        }
+
+        .rp {
+            text-align: center;
+        }
+
+        .ps {
+            color: blue;
+            position: relative;
+            left: 150px;
+        }
+
+        .pa {
+            color: blue;
+            position: relative;
+            left: 145px;
+        }
+
+        .container2 {
+            border: 2px solid black;
+            border-radius: 20px;
+            margin: 0px 10px;
+            width: 700px;
+        }
+
+        .img1 {
+            margin: 5px;
+            height: 70px;
+            width: 70px;
+            border: 2px solid white;
+            border-radius: 50px;
+        }
+        .in{
+            position: relative;
+            bottom: 40px;
+            border-radius: 30px;
+            padding: 15px;
+            width: 525px;
+        }
